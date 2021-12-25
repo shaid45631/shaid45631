@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ShAiD Sk.
-- 👀 I’m interested in Writting Code. i'm a competitive programmer on Codeforces. 
+- 👀 I love to write code and i'm also a competitive programmer.
 - 🌱 I’m currently learning Self Study
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
